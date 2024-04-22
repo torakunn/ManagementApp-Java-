@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">やることメモアプリ</string>
+    <string name="bt_job">バイト</string>
+    <string name="bt_school">大学</string>
+    <string name="bt_play">遊び</string>
+    <string name="bt_All">すべて</string>
+    <string name="et_input">追加する予定または分類を入力</string>
+    <string name="bt_add">予定を追加</string>
+    <string name="bt_add_class">分類を追加</string>
+    <string name="dialog_title"></string>
+    <string name="dialog_msg"></string>
+    <string name="dialog_bt_cancel">キャンセル</string>
+    <string name="dialog_bt_edit">編集</string>
+    <string name="dialog_bt_delete">削除</string>
+    <string name="bt_edit_confirm">確定</string>
+    <string-array name="spinner_classification">
+        <item>大学</item>
+        <item>バイト</item>
+        <item>遊び</item>
+        <item>指定なし</item>
+    </string-array>
+</resources>
